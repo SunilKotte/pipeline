@@ -1,4 +1,4 @@
-print "Adding two numbers"
+print ("Adding two numbers")
 
 def adding(a,b):
   print(f'a+b {a+b}')
